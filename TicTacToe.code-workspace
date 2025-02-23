@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "TicTacToe",
+			"path": "."
+		},
+		{
+			"path": "../Maze"
+		}
+	],
+	"settings": {}
+}
